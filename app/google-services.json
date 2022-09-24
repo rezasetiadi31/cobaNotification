@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "595820185511",
+    "project_id": "cobanotification-1d92f",
+    "storage_bucket": "cobanotification-1d92f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:595820185511:android:f68e5e2e939fb6ac359882",
+        "android_client_info": {
+          "package_name": "com.example.cobanotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "595820185511-toe1vrav5q6koam24gktolg9bdjoqrae.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNv-nGxtdgpRmEFJToKYUjLE-cTxgmmZ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "595820185511-toe1vrav5q6koam24gktolg9bdjoqrae.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
